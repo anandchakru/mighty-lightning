@@ -1,0 +1,50 @@
+{
+  "generator": "genesis2",
+  "version": "2.0.0",
+  "projectName": "mighty-lightning",
+  "projectId": 38,
+  "genId": 38,
+  "domain": "rathnas.com",
+  "sld": "rathnas",
+  "tld": "com",
+  "owner": "anandchakru",
+  "repo": "mighty-lightning",
+  "generatedAt": "2025-09-01T16:21:22.471Z",
+  "generatedBy": "genesis2-api",
+  "modules": [
+    {
+      "kind": "code",
+      "layer": "ops",
+      "type": "aws",
+      "name": "brave-breeze",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "backend",
+      "type": "java",
+      "name": "wise-ocean",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "frontend",
+      "type": "react",
+      "name": "wild-meadow",
+      "region": "us-west-1"
+    },
+    {
+      "kind": "code",
+      "layer": "docs",
+      "type": "readme",
+      "name": "strong-sunset",
+      "region": "us-west-1"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "license": "MIT",
+    "tags": [
+    ]
+  }
+}
